@@ -3,8 +3,9 @@
 <div align="center">
 
 ![README Wizard](https://img.shields.io/badge/README-Wizard-purple?style=for-the-badge&logo=github)
-![Version](https://img.shields.io/badge/Version-2.0-brightgreen?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.1-brightgreen?style=for-the-badge)
 ![Spanish](https://img.shields.io/badge/Lang-Español-red?style=for-the-badge)
+![Accessibility](https://img.shields.io/badge/WCAG-AA%20Compliant-blue?style=for-the-badge)
 
 **✨ Crea README increíbles para tu perfil de GitHub con nuestra aplicación web interactiva ✨**
 
@@ -16,16 +17,18 @@
 
 ## 🌟 ¿Qué es README Wizard?
 
-README Wizard es una **aplicación web completa** que te permite crear README profesionales para tu perfil de GitHub en **segundos**. Con una interfaz gráfica intuitiva, puedes elegir entre 9 templates especializados, personalizar toda tu información y descargar tu README listo para usar.
+README Wizard es una **aplicación web completa** que te permite crear README profesionales para tu perfil de GitHub en **segundos**. Con una interfaz gráfica intuitiva y moderna, puedes elegir entre 9 templates especializados, personalizar toda tu información con efectos visuales impresionantes y descargar tu README listo para usar.
 
 ### 🎯 **¿Por qué usar README Wizard?**
 
-- 📝 **Sin código**: Interfaz gráfica, no necesitas escribir Markdown
+- 📝 **Sin código**: Interfaz gráfica moderna, no necesitas escribir Markdown
 - ⚡ **Súper rápido**: De 0 a README profesional en menos de 5 minutos
 - 🎨 **9 templates únicos**: Diseñados para diferentes tipos de desarrolladores
 - 🛠️ **+50 tecnologías**: Selector visual con los logos más populares
 - 📱 **Responsive**: Funciona perfecto en móviles y desktop
 - 🇪🇸 **En español**: Interfaz completamente en español
+- ✨ **Glassmorphism**: Efectos modernos y elegantes
+- ♿ **Accesible**: Cumple estándares WCAG AA
 
 ## 🚀 Características Principales
 
@@ -33,7 +36,7 @@ README Wizard es una **aplicación web completa** que te permite crear README pr
 
 | ✨ Característica | 📝 Descripción |
 |:---:|:---|
-| 🎨 **Templates Profesionales** | 9 diseños únicos para diferentes especialidades |
+| 🎨 **Templates Profesionales** | 9 diseños únicos con efectos glassmorphism |
 | 📝 **Formulario Intuitivo** | Completa tu información paso a paso |
 | 🛠️ **Selector de Tecnologías** | +50 tecnologías con logos oficiales |
 | 👀 **Preview en Tiempo Real** | Ve tu README mientras lo creas |
@@ -41,6 +44,8 @@ README Wizard es una **aplicación web completa** que te permite crear README pr
 | 💾 **Descarga Directa** | README.md listo para GitHub |
 | 📋 **Copiar al Portapapeles** | Copia y pega donde quieras |
 | 📱 **Diseño Responsive** | Perfecto en móviles y desktop |
+| ⭐ **Pantalla de Carga** | Experiencia de usuario premium |
+| ♿ **Alto Contraste** | Cumple estándares de accesibilidad |
 
 </div>
 
@@ -88,8 +93,8 @@ open index.html
 # O en Linux: xdg-open index.html
 ```
 
-**¡Eso es todo!** La aplicación se abrirá en tu navegador y podrás:
-1. ✨ **Elegir** tu template favorito
+**¡Eso es todo!** La aplicación se abrirá en tu navegador con una moderna pantalla de carga y podrás:
+1. ✨ **Elegir** tu template favorito (con efectos glassmorphism)
 2. 📝 **Personalizar** con tu información
 3. 🛠️ **Seleccionar** tus tecnologías
 4. 📋 **Añadir** proyectos destacados
@@ -195,8 +200,9 @@ open index.html
 | 🎨 Frontend | 📦 Dependencias | 🔧 Herramientas |
 |:---:|:---:|:---:|
 | HTML5 | Tailwind CSS | Font Awesome |
-| CSS3 | JavaScript ES6+ | GitHub API |
+| CSS3 + Glassmorphism | JavaScript ES6+ | GitHub API |
 | Responsive Design | Markdown Parser | Local Storage |
+| WCAG AA Compliant | CSS Variables | Loading Animations |
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -260,6 +266,8 @@ Cada template incluye:
 - 📱 **Diseño responsive** para todos los dispositivos
 - 🎭 **Animaciones** sutiles y profesionales
 - 📊 **Gráficos** y estadísticas integradas
+- ✨ **Efectos glassmorphism** modernos
+- ♿ **Alto contraste** para accesibilidad
 
 ## 🤝 Contribuir al Proyecto
 
@@ -319,12 +327,13 @@ Agradecemos a todos los desarrolladores que han contribuido a hacer README Wizar
 
 <div align="center">
 
-### 🎯 **Versión 2.1** (Próxima)
+### 🎯 **Versión 2.2** (Próxima)
 | ✨ Feature | 📅 Estado | 🎨 Descripción |
 |:---|:---:|:---|
 | 🎨 **Editor Visual** | 🔄 En desarrollo | Arrastar y soltar elementos |
 | 🌐 **Más idiomas** | 📋 Planeado | Inglés, Francés, Portugués |
 | 📱 **App móvil** | 💡 Idea | PWA para móviles |
+| 🎵 **Sonidos** | 💡 Idea | Feedback auditivo opcional |
 
 ### 🚀 **Versión 3.0** (Futuro)
 | ✨ Feature | 📅 Estado | 🎨 Descripción |
@@ -332,6 +341,14 @@ Agradecemos a todos los desarrolladores que han contribuido a hacer README Wizar
 | 🤖 **IA Integration** | 💡 Idea | Generación automática con IA |
 | 📊 **Analytics** | 💡 Idea | Métricas de engagement |
 | 🎭 **Custom Themes** | 💡 Idea | Crear tus propios themes |
+
+### ✅ **Completado en v2.1**
+| ✨ Feature | 📅 Estado | 🎨 Descripción |
+|:---|:---:|:---|
+| ✨ **Glassmorphism UI** | ✅ Completado | Efectos modernos y elegantes |
+| ⭐ **Pantalla de Carga** | ✅ Completado | Experiencia premium de 3 segundos |
+| ♿ **Mejoras de Contraste** | ✅ Completado | Cumplimiento WCAG AA |
+| 🎨 **Cards Mejoradas** | ✅ Completado | Templates con mejor visibilidad |
 
 </div>
 
@@ -358,8 +375,9 @@ Agradecemos a todos los desarrolladores que han contribuido a hacer README Wizar
 ---
 
 **📅 Última actualización:** Julio 2025  
-**⚡ Versión:** 2.0  
+**⚡ Versión:** 2.1  
 **👥 Mantenido por:** La comunidad de GitHub  
+**✨ Nuevas características:** Glassmorphism, Pantalla de carga, Alto contraste  
 
 ---
 
