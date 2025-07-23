@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://readme-wizard.vercel.app/</loc>
+    <loc>https://readme-wizard-delta.vercel.app/</loc>
     <lastmod>2025-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://readme-wizard.vercel.app/PERSONALIZATION-GUIDE.md</loc>
+    <loc>https://readme-wizard-delta.vercel.app/PERSONALIZATION-GUIDE.md</loc>
     <lastmod>2025-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://readme-wizard.vercel.app/BADGE-COLLECTION.md</loc>
+    <loc>https://readme-wizard-delta.vercel.app/BADGE-COLLECTION.md</loc>
     <lastmod>2025-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://readme-wizard.vercel.app/GITHUB-ACTIONS-SETUP.md</loc>
+    <loc>https://readme-wizard-delta.vercel.app/GITHUB-ACTIONS-SETUP.md</loc>
     <lastmod>2025-07-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

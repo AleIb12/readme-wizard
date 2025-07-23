@@ -9,7 +9,7 @@
 
 **✨ Crea README increíbles para tu perfil de GitHub con nuestra aplicación web interactiva ✨**
 
-🌐 **[✨ USAR AHORA - readme-wizard.vercel.app ✨](https://readme-wizard.vercel.app)** 🌐
+🌐 **[✨ USAR AHORA - readme-wizard-delta.vercel.app ✨](https://readme-wizard-delta.vercel.app)** 🌐
 
 [🚀 Usar Ahora](#-inicio-rápido) • [📱 Demo](#-capturas-de-pantalla) • [🎯 Templates](#-templates-disponibles) • [📖 Guías](#-recursos-adicionales) • [🚀 Deploy](./DEPLOYMENT.md)
 
@@ -82,7 +82,7 @@ README Wizard es una **aplicación web completa** que te permite crear README pr
 
 ### Opción 1: 🌐 Usar Online (Más Fácil)
 
-**🎯 Simplemente visita: [readme-wizard.vercel.app](https://readme-wizard.vercel.app)**
+**🎯 Simplemente visita: [readme-wizard-delta.vercel.app](https://readme-wizard-delta.vercel.app)**
 
 ¡No necesitas instalar nada! La aplicación funciona completamente en tu navegador.
 

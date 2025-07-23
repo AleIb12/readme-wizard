@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemaps
-Sitemap: https://readme-wizard.vercel.app/sitemap.xml
+Sitemap: https://readme-wizard-delta.vercel.app/sitemap.xml
 
 # Crawl-delay
 Crawl-delay: 1
