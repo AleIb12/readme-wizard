@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://readme-wizard.vercel.app/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Specific rules
+Allow: /templates/
+Allow: /styles.css
+Allow: /app.js
+Allow: /manifest.json
+
+# Disallow unnecessary files
+Disallow: /node_modules/
+Disallow: /*.min.*
+Disallow: /optimize.js
+Disallow: /.git/
+Disallow: /.vercel/

@@ -9,7 +9,9 @@
 
 **✨ Crea README increíbles para tu perfil de GitHub con nuestra aplicación web interactiva ✨**
 
-[🚀 Usar Ahora](#-inicio-rápido) • [📱 Demo](#-capturas-de-pantalla) • [🎯 Templates](#-templates-disponibles) • [📖 Guías](#-recursos-adicionales)
+🌐 **[✨ USAR AHORA - readme-wizard.vercel.app ✨](https://readme-wizard.vercel.app)** 🌐
+
+[🚀 Usar Ahora](#-inicio-rápido) • [📱 Demo](#-capturas-de-pantalla) • [🎯 Templates](#-templates-disponibles) • [📖 Guías](#-recursos-adicionales) • [🚀 Deploy](./DEPLOYMENT.md)
 
 </div>
 
@@ -78,11 +80,17 @@ README Wizard es una **aplicación web completa** que te permite crear README pr
 
 ## 🚀 Inicio Rápido
 
-### Opción 1: 🖥️ Usar la Aplicación Web (Recomendado)
+### Opción 1: 🌐 Usar Online (Más Fácil)
+
+**🎯 Simplemente visita: [readme-wizard.vercel.app](https://readme-wizard.vercel.app)**
+
+¡No necesitas instalar nada! La aplicación funciona completamente en tu navegador.
+
+### Opción 2: 🖥️ Usar Localmente
 
 ```bash
 # 1. Clona o descarga el proyecto
-git clone https://github.com/tu-usuario/readme-wizard.git
+git clone https://github.com/AleIb12/readme-wizard.git
 
 # 2. Entra al directorio
 cd readme-wizard
@@ -100,7 +108,7 @@ open index.html
 4. 📋 **Añadir** proyectos destacados
 5. 💾 **Descargar** tu README.md
 
-### Opción 2: 📝 Método Manual
+### Opción 3: 📝 Método Manual
 
 Si prefieres editar directamente los archivos Markdown:
 

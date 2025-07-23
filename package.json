@@ -1,0 +1,38 @@
+{
+  "name": "readme-wizard",
+  "version": "2.1.0",
+  "description": "Generador de README profesionales para GitHub con interfaz web moderna",
+  "main": "index.html",
+  "keywords": [
+    "readme",
+    "github",
+    "markdown",
+    "generator",
+    "profile",
+    "wizard",
+    "spanish",
+    "glassmorphism"
+  ],
+  "author": "AleIb12",
+  "license": "MIT",
+  "homepage": "https://readme-wizard.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleIb12/readme-wizard.git"
+  },
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python3 -m http.server 8080",
+    "lint": "echo 'Linting HTML and CSS'",
+    "optimize": "node optimize.js"
+  },
+  "devDependencies": {
+    "html-minifier": "^4.0.0",
+    "csso": "^5.0.5",
+    "terser": "^5.19.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
