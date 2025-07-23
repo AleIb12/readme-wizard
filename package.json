@@ -23,7 +23,7 @@
   "scripts": {
     "dev": "python3 -m http.server 3000",
     "build": "echo 'Static site - no build needed'",
-    "start": "python3 -m http.server 8080",
+    "start": "echo 'Static site - served directly'",
     "lint": "echo 'Linting HTML and CSS'",
     "optimize": "node optimize.js"
   },
