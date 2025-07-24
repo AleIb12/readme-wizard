@@ -19,17 +19,17 @@
 
 ## 🌟 ¿Qué es README Wizard?
 
-README Wizard es una **aplicación web completa** que te permite crear README profesionales para tu perfil de GitHub en **segundos**. Con una interfaz gráfica intuitiva y moderna, puedes elegir entre 9 templates especializados, personalizar toda tu información con efectos visuales impresionantes y descargar tu README listo para usar.
+README Wizard es una **aplicación web completa** que te permite crear README profesionales para tu perfil de GitHub en **segundos**. Con una interfaz gráfica intuitiva y moderna con **estilo pixel art refinado**, puedes elegir entre 9 templates especializados, personalizar toda tu información con efectos visuales impresionantes y descargar tu README listo para usar.
 
 ### 🎯 **¿Por qué usar README Wizard?**
 
-- 📝 **Sin código**: Interfaz gráfica moderna, no necesitas escribir Markdown
+- 📝 **Sin código**: Interfaz gráfica moderna con estilo pixel art, no necesitas escribir Markdown
 - ⚡ **Súper rápido**: De 0 a README profesional en menos de 5 minutos
 - 🎨 **9 templates únicos**: Diseñados para diferentes tipos de desarrolladores
 - 🛠️ **+50 tecnologías**: Selector visual con los logos más populares
 - 📱 **Responsive**: Funciona perfecto en móviles y desktop
 - 🇪🇸 **En español**: Interfaz completamente en español
-- ✨ **Glassmorphism**: Efectos modernos y elegantes
+- 🎮 **Estilo Pixel Art**: Diseño retro refinado con efectos modernos
 - ♿ **Accesible**: Cumple estándares WCAG AA
 
 ## 🚀 Características Principales
@@ -38,7 +38,7 @@ README Wizard es una **aplicación web completa** que te permite crear README pr
 
 | ✨ Característica | 📝 Descripción |
 |:---:|:---|
-| 🎨 **Templates Profesionales** | 9 diseños únicos con efectos glassmorphism |
+| � **Templates Pixel Art** | 9 diseños únicos con estilo retro refinado |
 | 📝 **Formulario Intuitivo** | Completa tu información paso a paso |
 | 🛠️ **Selector de Tecnologías** | +50 tecnologías con logos oficiales |
 | 👀 **Preview en Tiempo Real** | Ve tu README mientras lo creas |
@@ -101,8 +101,8 @@ open index.html
 # O en Linux: xdg-open index.html
 ```
 
-**¡Eso es todo!** La aplicación se abrirá en tu navegador con una moderna pantalla de carga y podrás:
-1. ✨ **Elegir** tu template favorito (con efectos glassmorphism)
+**¡Eso es todo!** La aplicación se abrirá en tu navegador con una moderna pantalla de carga pixel art y podrás:
+1. 🎮 **Elegir** tu template favorito (con estilo pixel art refinado)
 2. 📝 **Personalizar** con tu información
 3. 🛠️ **Seleccionar** tus tecnologías
 4. 📋 **Añadir** proyectos destacados
@@ -205,10 +205,10 @@ open index.html
 
 <div align="center">
 
-| 🎨 Frontend | 📦 Dependencias | 🔧 Herramientas |
+| � Frontend | 📦 Dependencias | 🔧 Herramientas |
 |:---:|:---:|:---:|
 | HTML5 | Tailwind CSS | Font Awesome |
-| CSS3 + Glassmorphism | JavaScript ES6+ | GitHub API |
+| CSS3 + Pixel Art | JavaScript ES6+ | GitHub API |
 | Responsive Design | Markdown Parser | Local Storage |
 | WCAG AA Compliant | CSS Variables | Loading Animations |
 
@@ -274,7 +274,7 @@ Cada template incluye:
 - 📱 **Diseño responsive** para todos los dispositivos
 - 🎭 **Animaciones** sutiles y profesionales
 - 📊 **Gráficos** y estadísticas integradas
-- ✨ **Efectos glassmorphism** modernos
+- 🎮 **Efectos pixel art** modernos y refinados
 - ♿ **Alto contraste** para accesibilidad
 
 ## 🤝 Contribuir al Proyecto
@@ -353,7 +353,7 @@ Agradecemos a todos los desarrolladores que han contribuido a hacer README Wizar
 ### ✅ **Completado en v2.1**
 | ✨ Feature | 📅 Estado | 🎨 Descripción |
 |:---|:---:|:---|
-| ✨ **Glassmorphism UI** | ✅ Completado | Efectos modernos y elegantes |
+| 🎮 **Pixel Art UI** | ✅ Completado | Estilo retro refinado y moderno |
 | ⭐ **Pantalla de Carga** | ✅ Completado | Experiencia premium de 3 segundos |
 | ♿ **Mejoras de Contraste** | ✅ Completado | Cumplimiento WCAG AA |
 | 🎨 **Cards Mejoradas** | ✅ Completado | Templates con mejor visibilidad |
@@ -385,7 +385,7 @@ Agradecemos a todos los desarrolladores que han contribuido a hacer README Wizar
 **📅 Última actualización:** Julio 2025  
 **⚡ Versión:** 2.1  
 **👥 Mantenido por:** La comunidad de GitHub  
-**✨ Nuevas características:** Glassmorphism, Pantalla de carga, Alto contraste  
+**🎮 Nuevas características:** Pixel Art Theme, Pantalla de carga, Alto contraste  
 
 ---
 
